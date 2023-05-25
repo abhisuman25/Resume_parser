@@ -14,7 +14,7 @@ import shutil
 def cv_parser():
     
     
-    put_code("-----<< Welcome to CV Parser Application >>-----")
+    put_code("-----<< Welcome to CV Parser Application >>------")
     count=0
     add_more = True
     
